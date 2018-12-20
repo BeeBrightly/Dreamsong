@@ -2,12 +2,12 @@ body {
     font-family: 'Major Mono Display', monospace;
     text-align: center;
     font-size: 60px;
-    background-image: url("Ritual.jpg");
+    background-image: url("Dreamsong/Ritual.jpg");
          
     background-attachment: fixed; 
     background-size: 50%
 }
 
-p{
+p {
     color: ghostwhite
 }
